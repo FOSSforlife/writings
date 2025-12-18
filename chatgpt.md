@@ -11,9 +11,9 @@ At its worst, it's a sycophant, a bullshit artist, and a slop generator that poi
 
 The difference is entirely in the **prompting**.
 
-**Everything below this line is pasted from snippets of a ChatGPT conversation I had** (and don't worry, it's the only thing in this entire collection of texts that is - everything else is 100% my writing). I collected and gave it some of my favorite prompts from over the years, and told it to analyze what it is about these prompts that works so well.
+Everything below the line is pasted from snippets of a ChatGPT conversation I had (and don't worry, it's the only thing in this entire collection of texts that is - everything else is 100% my writing). I collected and gave it some of my favorite prompts from over the years, and told it to analyze what it is about these prompts that works so well.
 
----
+---**_CHATGPT STARTS HERE_**---
 
 ## LLM Prompting Guide
 
