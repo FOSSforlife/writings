@@ -8,3 +8,5 @@ This means two things:
 - Speaking so that others can understand you
 
 The second is in service of the first - when you speak clearly, you spread both **more accurate** knowledge and more **accurate knowledge** (read that a few times if you need to).
+
+The writings I've posted here are deliberately written in a logical way, intended for an audience that appreciates precision.
