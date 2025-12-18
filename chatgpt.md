@@ -21,7 +21,7 @@ Everything below this line is pasted from snippets of a ChatGPT conversation I h
   Ask questions that require synthesis, interpretation, or theory-building rather than recall or definitions.
 
 - **Bridge disciplines on purpose**
-  Combine fields (e.g. philosophy + media, CS + psychology, art + politics) to surface insights that wouldn’t appear within a single domain.
+  Combine fields (e.g. philosophy + media, CS + psychology) to surface insights that wouldn’t appear within a single domain.
 
 - **Provide just enough context**
   Frame the question so the model knows _why_ you’re asking and _from what angle_, without over-constraining the answer.
@@ -65,6 +65,6 @@ Second, the model is used to **externalize cognition**. By asking it to compare 
 
 Third, the interaction is iterative rather than transactional. A lookup engine encourages one-shot queries. A collaborator encourages follow-ups, reframing, and refinement. Many of your prompts implicitly assume this: they’re designed to open a line of inquiry, not close it. Each answer becomes raw material for the next question.
 
-Fourth, the model is treated as a **synthetic generalist**. Humans often specialize deeply and integrate slowly. LLMs do the opposite: they integrate broadly but shallowly unless guided. Your prompts exploit this strength by asking the model to traverse philosophy, politics, psychology, media, and technology in a single move—something a human researcher would normally need weeks of context switching to attempt.
+Fourth, the model is treated as a **synthetic generalist**. Humans often specialize deeply and integrate slowly. LLMs do the opposite: they integrate broadly but shallowly unless guided. Your prompts exploit this strength by asking the model to traverse philosophy, psychology, media, and technology in a single move—something a human researcher would normally need weeks of context switching to attempt.
 
 Finally, this approach reframes success. The goal is not “Did I get the right answer?” but “Did this move my understanding forward?” A good response might complicate your view, introduce a productive tension, or give you a better question than the one you started with. That’s the hallmark of collaboration, not retrieval.
