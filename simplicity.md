@@ -21,7 +21,7 @@ This is my favorite app of all time. At its core, it is just a nice-looking WYSI
 
 ### Bandcamp
 
-An incredible platform for buying music from independent artists and small record labels, providing most popular audio formats includig FLAC (the best one), ALAC, WAV, and MP3. Artist pages are customizable and expressive, and it's just a fun website to browse and discover new music you can't find in many other places.
+An incredible platform for buying music from independent artists and small record labels, providing most popular audio formats including FLAC (the best one), ALAC, WAV, and MP3. Artist pages are customizable and expressive, and it's just a fun website to browse and discover new music you can't find in many other places.
 
 Admittedly, I still listen to most of my music through Spotify because it's the best user experience for creating, organizing, and listening to playlists on any OS including Linux (which most streaming platforms still don't support). I make tons of playlists, so Spotify's UX is an essential part of my listening workflow.
 
