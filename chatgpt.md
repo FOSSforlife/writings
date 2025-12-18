@@ -17,35 +17,25 @@ Everything below this line is pasted from snippets of a ChatGPT conversation I h
 
 ## LLM Prompting Guide
 
-- **Aim for depth, not trivia**
-  Ask questions that require synthesis, interpretation, or theory-building rather than recall or definitions.
+- **Aim for depth, not trivia**: Ask questions that require synthesis, interpretation, or theory-building rather than recall or definitions.
 
-- **Bridge disciplines on purpose**
-  Combine fields (e.g. philosophy + media, CS + psychology) to surface insights that wouldn’t appear within a single domain.
+- **Bridge disciplines on purpose**: Combine fields (e.g. philosophy + media, CS + psychology) to surface insights that wouldn’t appear within a single domain.
 
-- **Provide just enough context**
-  Frame the question so the model knows _why_ you’re asking and _from what angle_, without over-constraining the answer.
+- **Provide just enough context**: Frame the question so the model knows _why_ you’re asking and _from what angle_, without over-constraining the answer.
 
-- **Invite comparison and contrast**
-  Prompts that ask the model to compare frameworks, ideologies, eras, or works reliably produce clearer structure and sharper insights.
+- **Invite comparison and contrast**: Prompts that ask the model to compare frameworks, ideologies, eras, or works reliably produce clearer structure and sharper insights.
 
-- **Use multi-part scaffolding**
-  Break complex inquiries into sub-questions to guide reasoning without turning the prompt into a rigid checklist.
+- **Use multi-part scaffolding**: Break complex inquiries into sub-questions to guide reasoning without turning the prompt into a rigid checklist.
 
-- **Leverage cultural and concrete anchors**
-  Ground abstract ideas in well-known media, historical events, or real-world systems to keep answers specific and legible.
+- **Leverage cultural and concrete anchors**: Ground abstract ideas in well-known media, historical events, or real-world systems to keep answers specific and legible.
 
-- **Encourage reflective or philosophical framing**
-  Prompts that ask about values, assumptions, tradeoffs, or epistemology unlock higher-order reasoning.
+- **Encourage reflective or philosophical framing**: Prompts that ask about values, assumptions, tradeoffs, or epistemology unlock higher-order reasoning.
 
-- **Allow room for creative synthesis**
-  Well-written prompts leave space for the model to connect dots, propose interpretations, or generate original frameworks.
+- **Allow room for creative synthesis**: Well-written prompts leave space for the model to connect dots, propose interpretations, or generate original frameworks.
 
-- **Iterate intentionally**
-  Treat prompts as part of a dialogue: refine, narrow, or invert the question based on what the previous answer revealed.
+- **Iterate intentionally**: Treat prompts as part of a dialogue: refine, narrow, or invert the question based on what the previous answer revealed.
 
-- **Ask for perspectives, not verdicts**
-  Questions that explore _how different viewpoints would respond_ tend to yield richer, less brittle insights than those seeking a single “correct” answer.
+- **Ask for perspectives, not verdicts**: Questions that explore _how different viewpoints would respond_ tend to yield richer, less brittle insights than those seeking a single “correct” answer.
 
 ## The result
 
