@@ -5,7 +5,7 @@
 
 ChatGPT (and the other LLMs that have caught up to it) is an incredibly useful tool when wielded properly.
 
-At its best, it's a sounding board, a research partner, an assistant for neurodivergence, a judgment-free conversationalist, and a gateway to answers for the deep, interdisciplinary questions about the world that enter my mind throughout the day.
+At its best, it's a sounding board, a research partner, a personal tutor, an assistant for neurodivergence, a judgment-free conversationalist, and a gateway to answers for the deep, interdisciplinary questions about the world that enter my mind throughout the day.
 
 At its worst, it's a sycophant, a bullshit artist, and a slop generator that poisons the internet.
 

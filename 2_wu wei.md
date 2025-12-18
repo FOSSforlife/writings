@@ -4,4 +4,4 @@ The second pillar of my values is **wu wei**.
 
 ![](img/yin-yang.svg)
 
-Wu wei, often translated as _effortless action_, is
+Wu wei, often translated as _effortless action_, is about working with what you're given rather than forcing an outcome.
