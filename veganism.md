@@ -2,7 +2,7 @@
 
 As I hinted at in the intro to [Universal Compassion](<1_universal compassion.md>), my moral circle extends to all sentient life that is capable of suffering. There is immense animal suffering that goes on in the factory farms that mass-produce our meat, dairy, and eggs, and the only reason it is produced through such harmful cost-cutting measures is because of _market demand_. Whenever we purchase a product, we contribute to the market demand of that product. Therefore, it is best to refrain from consuming animal products whenever it is reasonable to do so.
 
-## Why not vegetarian/reduceitarian/flexitarian/vegan except for cheese?
+## Why not vegetarian/reduceitarian/flexitarian/"vegan except for cheese"?
 
 I think this is fine for people who can't go vegan for health reasons, rare personal circumstances, or if you feel like you are seriously at capacity for the amount of good you want to do in the world (which is fine because everyone has their own limit - I am against purity testing).
 
