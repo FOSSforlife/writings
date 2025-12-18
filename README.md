@@ -10,6 +10,5 @@
 ### Thoughts on...
 
 - [ChatGPT](chatgpt.md)
-- [Hegel's Dialectic](<hegel's dialectic.md>)
 - [Simplicity](simplicity.md)
 - [Veganism](veganism.md)

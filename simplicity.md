@@ -19,6 +19,12 @@ This is my favorite app of all time. At its core, it is just a nice-looking WYSI
 - **Ethics:** Not made by an evil company.
 - **An interesting balance:** You'll notice that Obsidian is not open source but still doesn't lock you into its ecosystem. Closed yet flexible. Capitalistic yet kind. This is the sweet spot between the _idealism_ of [Universal Compassion](<1_universal compassion.md>) and the _practicality_ of [Stability](stability.md), and the proof of that can be seen directly in how well-loved and culturally successful this app is compared to similar tools.
 
+### Bandcamp
+
+An incredible platform for buying music from independent artists and small record labels, providing most popular audio formats includig FLAC (the best one), ALAC, WAV, and MP3. Artist pages are customizable and expressive, and it's just a fun website to browse and discover new music you can't find in many other places.
+
+Admittedly, I still listen to most of my music through Spotify because it's the best user experience for creating, organizing, and listening to playlists on any OS including Linux (which most streaming platforms still don't support). I make tons of playlists, so Spotify's UX is an essential part of my listening workflow.
+
 ### Jellyfin
 
 Unfortunately, because there are no digital movie storefronts that offer DRM-free titles, and because bypassing copy protections on DVDs and Blu-Rays that I own is [illegal in the United States](https://www.copyright.gov/title17/92chap12.html#1201), and because GitHub's guidelines prohibit the promotion of piracy, I don't actually use Jellyfin at all. Please move on to the next section.

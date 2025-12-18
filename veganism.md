@@ -9,4 +9,7 @@ I think this is fine for people who can't go vegan for health reasons, rare pers
 For everyone else, here are some reasons why I think this is a bad idea:
 
 1. [Act utilitarian](https://en.wikipedia.org/wiki/Act_utilitarianism) defenses (e.g. it's okay just this one time!) fail for the same reason that act utilitarianism in general fails: it encourages faulty observations at best ([for example, "cage-free" is a misleading label](https://veganfta.com/blog/2025/07/14/%F0%9F%A5%9A-the-dark-truth-about-egg-production-why-cage-free-isnt-enough/)), motivated reasoning at worst (and most common).
-2.
+2. Obeying a habit to its fullest extent helps you maintain [stable](4_stability.md) practices.
+
+   - In other words, going "50% vegan" makes it easy to be undisciplined, resulting in "25% vegan" and later "10% vegan".
+   - On the other hand, aiming for "100% vegan" and developing clear habits will help you stay within the "95-100%" range.
