@@ -28,3 +28,7 @@ Admittedly, I still listen to most of my music through Spotify because it's the 
 ### Jellyfin
 
 Unfortunately, because there are no digital movie storefronts that offer DRM-free titles, and because bypassing copy protections on DVDs and Blu-Rays that I own is [illegal in the United States](https://www.copyright.gov/title17/92chap12.html#1201), and because GitHub's guidelines prohibit the promotion of piracy, I don't actually use Jellyfin at all. Please move on to the next section.
+
+### Ableton Live
+
+Ableton Live, colloquially referred to as Ableton, is the best software for making music. There are other DAWs and musicmaking tools that are technically more modular and powerful, but Ableton strikes a perfect balance between speed, flexibility, and polish, and its intuitive interface design facilitates brainstorming, jamming, composing, and producing. Even while dipping my toes into Bitwig every now and then, I always come back to Ableton because it makes the most sense to me and lets me get stuff done. I just wish there was a Linux version so that I could use it on some of my other machines.

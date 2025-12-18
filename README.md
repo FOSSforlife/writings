@@ -10,5 +10,6 @@
 ### Thoughts on...
 
 - [ChatGPT](chatgpt.md)
+- [Open Source](<open source.md>)
 - [Simplicity](simplicity.md)
 - [Veganism](veganism.md)

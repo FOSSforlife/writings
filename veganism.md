@@ -13,3 +13,8 @@ For everyone else, here are some reasons why I think this is a bad idea:
 
    - In other words, going "50% vegan" makes it easy to be undisciplined, resulting in "25% vegan" and later "10% vegan".
    - On the other hand, aiming for "100% vegan" and developing clear habits will help you stay within the "95-100%" range.
+
+## Where can I learn more?
+
+- [The Vegan Society](https://www.vegansociety.com/go-vegan)
+- [/r/vegan FAQ](https://www.reddit.com/r/vegan/wiki/beginnersguide/)
