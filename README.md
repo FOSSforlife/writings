@@ -12,6 +12,4 @@
 - [ChatGPT](chatgpt.md)
 - [Hegel's Dialectic](<hegel's dialectic.md>)
 - [Simplicity](simplicity.md)
-- [Taoism (Daoism)](taoism.md)
-- [Technology](technology.md)
 - [Veganism](veganism.md)
