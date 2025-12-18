@@ -8,7 +8,7 @@ For me, open source is about transcending ego. Once the work is out there, it be
 
 Of course, maintaining a successful open source project is hard, and it's often thankless volunteer work. Trying to create a business plan around it is even more difficult, because nothing stops another team from essentially "stealing" your product. However, a business plan is often necessary in order to incentivize the design and engineering labor that goes into a polished product.
 
-This is why, while I use open source software whenever possible, it's often a choice between idealism and polish. Much of what I use is proprietary (closed source) because in our current systsem, profit-driven teams are often better at producing quality work.
+This is why, while I use open source software whenever possible, it's often a choice between idealism and polish. Much of what I use is proprietary (closed source) because in our current systsem, profit-driven teams are often better at producing consistent quality work. That said, there are a lot of great open source projects out there that I do use, funded either through donations or through clever business models where the code isn't necessarily the product (e.g. enterprise support plans, advanced online features).
 
 ## Some of my favorite open source projects
 
@@ -20,3 +20,4 @@ This is why, while I use open source software whenever possible, it's often a ch
 - MediaWiki (the CMS that powers Wikipedia)
 - Pure Data (a patching environment for audio signals)
 - Zed (a speedy VSCode alternative written in Rust)
+- MusicBrainz (a music metadata database that powers many websites including LastFM)
