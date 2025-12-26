@@ -1,6 +1,6 @@
 # Simplicity
 
-In Rich Hickey's talk titled ["Simple Made Easy"](https://www.youtube.com/watch?v=SxdOUGdseq4), he defines "simple" as the opposite of complex (systems unnecessarily tangled together and reliant on one another) and "easy" as something that a user or developer can quickly pick up and use without trouble. He makes the argument that many programming abstractions, with the intention of making things easy for the developer, actually make the underlying system difficult to understand and debug, costing time and energy for everyone in the long run. This is why we should value simplicity.
+In Rich Hickey's presentation titled ["Simple Made Easy"](https://www.youtube.com/watch?v=SxdOUGdseq4), he defines "simple" as the opposite of complex (systems unnecessarily tangled together and reliant on one another) and "easy" as something that a user or developer can quickly pick up and use without trouble. He makes the argument that many programming abstractions, with the intention of making things easy for the developer, actually make the underlying system difficult to understand and debug, costing time and energy for everyone in the long run. This is why we should value simplicity.
 
 This is a valuable observation, not just for developing software, but also for using software. It's not quite the UNIX philosophy of "each application does one thing and does it well" - lots of applications do many things well - but rather about using tools that are reilable, interoperable, composable, and ideally work across devices.
 
