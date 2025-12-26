@@ -25,7 +25,7 @@ An incredible platform for buying music from independent artists and small recor
 
 Quite frankly, I will not purchase a piece of music if I can't find it on Bandcamp, because I want to keep my music purchasing workflow _simple_.
 
-Admittedly, I still listen to most of my music through Spotify because it's the best user experience for creating, organizing, and listening to playlists on any OS including Linux (which most streaming platforms still don't support). I make tons of playlists, so Spotify's UX is an essential part of my listening workflow.
+Admittedly, I still listen to most of my music through Spotify because it's the best user experience for creating, organizing, and listening to playlists on any OS including Linux (which most streaming platforms still don't support). I make tons of playlists, so Spotify's UX is an essential part of my listening workflow. But I always buy my favorite albums on Bandcamp to help the music scene stay afloat.
 
 ### Jellyfin
 
