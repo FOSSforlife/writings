@@ -10,6 +10,8 @@
 ### Thoughts on...
 
 - [ChatGPT](chatgpt.md)
+- [Generosity](generosity.md)
 - [Open Source](<open source.md>)
 - [Simplicity](simplicity.md)
 - [Veganism](veganism.md)
+- [Walking](walking.md)
