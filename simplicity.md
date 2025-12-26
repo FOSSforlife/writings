@@ -10,7 +10,7 @@ Simplicity can be applied to every aspect of life. In fact, this collection of t
 
 ### Obsidian
 
-This is my favorite app of all time. At its core, it is just a nice-looking WYSIWYG Markdown text editor. But once you understand its _simple_ primitives - tags, wikilinks, and properties - you can transform it into a powerhouse.
+This is my favorite app of all time. At its core, it is just a nice-looking WYSIWYG Markdown text editor. But once you understand its _simple_ primitives - tags, wikilinks, and properties - you can transform it into a powerhouse. I use it to organize my thoughts, gather sources, and connect ideas in ways I never could have done otherwise.
 
 - **Platforms:** Linux, macOS, Windows, iOS, Android
 - **Reliability:** Unfortunately it is not [open source](<open source.md>), so technically it could become abandonware and no one would be able to carry on its legacy (at least not in the form of its codebase). However, development is highly unlikely to stop anytime soon. There's a passionate community around it, the lead developer Steph Ango cares a lot about the project, and the team seems to be making good money via their Sync and Publish services and through donations. Plus, worst case scenario, you can just use a different Markdown editor! You can't say the same for data stored in Google Docs, Notion, or Apple Notes.
