@@ -4,13 +4,13 @@ In 2011, Rich Hickey, creator of the Clojure programming language, gave a famous
 
 This is a valuable observation, not just for developing software, but also for using software. It's not quite the UNIX philosophy of "each application does one thing and does it well" - lots of applications do many things well - but rather about using tools that are reilable, interoperable, composable, and ideally work across devices.
 
-Simplicity can be applied to every aspect of life. In fact, this collection of texts that you're looking at is the result of me wanting to make _blogging_ more simple (after trying Medium, Substack, Ghost, WriteFreely, Notion, Quartz, and Obsidian Publish). It's just some Markdown files, hosted on a website that I don't have to build, maintain, or style, written in a format where I don't feel any pressure to consistently provide updates or "market" myself. Is it flashy, interactive, engaging? No. But it _works_, because it's _simple_.
+Simplicity can be applied to every aspect of life. In fact, this collection of texts that you're looking at is the result of me wanting to make _blogging_ more simple (after trying platforms such as Medium, Substack, Ghost, WriteFreely, Notion, Quartz, and Obsidian Publish). It's just some Markdown files, hosted on a website that I don't have to build, maintain, or style, written in a format where I don't feel any pressure to consistently provide updates or "market" myself. Is it flashy, interactive, engaging? No. But it _works_, because it's _simple_.
 
 ## Tools I Use
 
 ### Obsidian
 
-This is my favorite app of all time. At its core, it is just a nice-looking WYSIWYG Markdown text editor. But once you understand its simple primitives - tags, wikilinks, and properties - you can transform it into a powerhouse. I use it as a second brain
+This is my favorite app of all time. At its core, it is just a nice-looking WYSIWYG Markdown text editor. But once you understand its _simple_ primitives - tags, wikilinks, and properties - you can transform it into a powerhouse.
 
 - **Platforms:** Linux, macOS, Windows, iOS, Android
 - **Reliability:** Unfortunately it is not [open source](<open source.md>), so technically it could become abandonware and no one would be able to carry on its legacy (at least not in the form of its codebase). However, development is highly unlikely to stop anytime soon. There's a passionate community around it, the lead developer Steph Ango cares a lot about the project, and the team seems to be making good money via their Sync and Publish services and through donations. Plus, worst case scenario, you can just use a different Markdown editor! You can't say the same for data stored in Google Docs, Notion, or Apple Notes.
@@ -23,6 +23,8 @@ This is my favorite app of all time. At its core, it is just a nice-looking WYSI
 
 An incredible platform for buying music from independent artists and small record labels, providing most popular audio formats including FLAC (the best one), ALAC, WAV, and MP3. Artist pages are customizable and expressive, and it's just a fun website to browse and discover new music that you can't find in many other places.
 
+Quite frankly, I will not purchase a piece of music if I can't find it on Bandcamp, because I want to keep my music purchasing workflow _simple_.
+
 Admittedly, I still listen to most of my music through Spotify because it's the best user experience for creating, organizing, and listening to playlists on any OS including Linux (which most streaming platforms still don't support). I make tons of playlists, so Spotify's UX is an essential part of my listening workflow.
 
 ### Jellyfin
@@ -31,4 +33,4 @@ Unfortunately, because there are no digital movie storefronts that offer DRM-fre
 
 ### Ableton Live
 
-Ableton Live, colloquially referred to as Ableton, is the best software for making music. There are other DAWs and musicmaking tools that are technically more modular and powerful, but Ableton strikes a perfect balance between speed, flexibility, and polish, and its intuitive interface design facilitates brainstorming, jamming, composing, and producing. Even while dipping my toes into Bitwig every now and then, I always come back to Ableton because it makes the most sense to me and lets me get stuff done. I just wish there was a Linux version so that I could use it on some of my other machines.
+Ableton Live, colloquially referred to as Ableton, is the best software for making music. There are other DAWs and musicmaking tools that are technically more modular and powerful, but Ableton strikes a perfect balance between speed, flexibility, and polish, and its intuitive interface design facilitates brainstorming, jamming, composing, and producing. Even while dipping my toes into Bitwig every now and then, I always come back to Ableton because it makes the most sense to me and lets me get stuff done. Every UI element is in a logical place. It's _simple_, yet powerful. I just wish there was a Linux version so that I could use it on some of my other machines.
