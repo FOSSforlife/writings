@@ -37,7 +37,7 @@ Everything below the line is pasted from snippets of a ChatGPT conversation I ha
 
 - **Ask for perspectives, not verdicts**: Questions that explore _how different viewpoints would respond_ tend to yield richer, less brittle insights than those seeking a single “correct” answer.
 
-## The result
+## Why it's not just a "better Google"
 
 A lookup engine (like Google) assumes the question is already well-formed and the answer already exists. You ask _what_, _who_, or _when_, and the system retrieves information that has been previously articulated somewhere else. This model works well for facts, definitions, and summaries, but it breaks down the moment the problem becomes ambiguous, cross-domain, or value-laden.
 
