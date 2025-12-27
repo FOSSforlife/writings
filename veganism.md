@@ -18,3 +18,5 @@ For everyone else, here are some reasons why I think this is a bad idea:
 
 - [The Vegan Society](https://www.vegansociety.com/go-vegan)
 - [/r/vegan FAQ](https://www.reddit.com/r/vegan/wiki/beginnersguide/)
+
+[Back](README.md)

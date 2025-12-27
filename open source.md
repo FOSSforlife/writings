@@ -21,3 +21,5 @@ This is why, while I use open source software whenever possible, it is sometimes
 - Pure Data (a patching environment for audio signals)
 - Zed (a speedy VSCode alternative written in Rust)
 - MusicBrainz (a music metadata database that powers many websites including LastFM)
+
+[Back](README.md)

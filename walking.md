@@ -5,3 +5,5 @@ I try to get at least 10,000 steps in every day. Walking helps me slow down, pro
 Walking spurs creativity by reducing activity in the brain's default mode network (the part of you that's overly inward and judgmental) and by providing a much-needed break from the overstimulation of work, responsibilities, and the internet. Being outside puts everything into perspective - your sense of physical space, the passage of time, identity, life goals. It teaches you to think of every moment not as a utility function but as something to experience and be aware of. Insights flow naturally from this state of being, rather than having to be forced out of your brain through intense concentration.
 
 See also: [Wu wei](<2_wu wei.md>), [Simplicity](simplicity.md)
+
+[Back](README.md)

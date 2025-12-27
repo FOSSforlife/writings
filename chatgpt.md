@@ -58,3 +58,5 @@ Third, the interaction is iterative rather than transactional. A lookup engine e
 Fourth, the model is treated as a **synthetic generalist**. Humans often specialize deeply and integrate slowly. LLMs do the opposite: they integrate broadly but shallowly unless guided. Your prompts exploit this strength by asking the model to traverse philosophy, psychology, media, and technology in a single move—something a human researcher would normally need weeks of context switching to attempt.
 
 Finally, this approach reframes success. The goal is not “Did I get the right answer?” but “Did this move my understanding forward?” A good response might complicate your view, introduce a productive tension, or give you a better question than the one you started with. That’s the hallmark of collaboration, not retrieval.
+
+[Back](README.md)
