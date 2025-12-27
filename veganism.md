@@ -4,7 +4,7 @@ As I hinted at in the intro to [Universal Compassion](<1_universal compassion.md
 
 ## Why not vegetarian/reduceitarian/flexitarian/"vegan except for cheese"?
 
-I think this is fine for people who can't go vegan for health reasons, rare personal circumstances, or if you feel like you are seriously at capacity for the amount of good you want to do in the world (which is fine because everyone has their own limit - I am against purity testing).
+I think this is fine for people who can't go vegan for health reasons, rare personal circumstances, or if you feel like you are seriously at capacity for the [amount of good](generosity.md) you want to do in the world (which is fine because everyone has their own limit - I am against purity testing).
 
 For everyone else, here are some reasons why I think this is a bad idea:
 
