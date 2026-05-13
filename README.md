@@ -9,6 +9,7 @@
 
 ### Thoughts on...
 
+- [Coding Style](<coding style.md>)
 - [Generosity](generosity.md)
 - [Open Source](<open source.md>)
 - [Simplicity](simplicity.md)
